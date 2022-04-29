@@ -2,7 +2,7 @@
 *A simplified version of the widely used nuke plugin know as Stamps Tool. This script allows you to create a node 
 within Nuke and create stamps / references to the parent node. This allows for tidier scripts and cleaner workflows.*
 
-##GETTING STARTED
+## GETTING STARTED
 The first thing to do is to locate your .nuke folder. *(It is hidden by default.)*
 
 - **Windows:** C:\ Users\< username >\.nuke
